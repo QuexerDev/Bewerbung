@@ -1,0 +1,4 @@
+name: HalloBungee
+version: ${project.version}
+main: me.quexer.halloween.hallobungee.HalloBungee
+description: HalloBungee

@@ -1,0 +1,5 @@
+name: HalloPlugin
+version: ${project.version}
+main: me.quexer.halloween.halloplugin.HalloPlugin
+authors: [Quexer]
+description: HalloPlugin for Maven integration

@@ -1,0 +1,24 @@
+name: SpookyLobby
+version: ${project.version}
+main: me.quexer.halloween.spookylobby.SpookyLobby
+authors: [Quexer]
+description: SpookyLobby
+commands:
+  ban:
+    aliases: [pun, mute]
+  unban:
+    aliases: [unmute]
+  check:
+    aliases: [info]
+  coins:
+    aliases: [cpr,c]
+  gm:
+    aliases: [gamemode, g]
+  tp:
+    aliases: [teleport,port]
+  help:
+    aliases: [?]
+  nick:
+    aliases: [hide]
+  setloc:
+
