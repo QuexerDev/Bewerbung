@@ -1,0 +1,4 @@
+name: CoinsGame
+version: '${project.version}'
+main: me.cholesterinlord.coinsgame.CoinsGame
+api-version: 1.19
